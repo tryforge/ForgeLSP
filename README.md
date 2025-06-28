@@ -1,2 +1,3 @@
-# ForgeLSP
-The ForgeScript Language Server
+# The ForgeScript Language Server
+
+Soon™
